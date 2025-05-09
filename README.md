@@ -5,8 +5,9 @@ In this video course we will learn how to program in Python. Here we will discus
 
 https://www.youtube.com/watch?v=n0xtO0x81cg&list=PL0lO_mIqDDFXgfuxOEDTCwsWmKezOaDTu
 
+![273475049-625293ba-9f65-4dbe-a91c-b678530944ba](https://github.com/user-attachments/assets/ffaf9ac2-82d2-4034-8b0b-3f24124e2dd5)
 
-![hqdefault](https://github.com/sgiman/Python_Base_Simple_Tutorial/assets/7030369/625293ba-9f65-4dbe-a91c-b678530944ba)
+
 
 ---
 
@@ -18,4 +19,4 @@ During the course you will learn how to work with the PyQt5 library and the Qt C
 
 https://www.youtube.com/watch?v=HuszbTeETYo&list=PL0lO_mIqDDFXeDkOLHmEsL_HAEhw4-xDX&index=1
 
-![267173894-31658b2f-2db6-489d-a39d-edff789e2dd5](https://github.com/user-attachments/assets/d1a15022-5a4f-4662-8a71-ee900cbce4de)
+![267173894-31658b2f-2db6-489d-a39d-edff789e2dd5](https://github.com/user-attachments/assets/35920e26-0710-42c5-97ff-8962818b7df8)
